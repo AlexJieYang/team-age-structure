@@ -1,0 +1,9 @@
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+data/
+outputs/
+.Rhistory
+.RData
+.DS_Store

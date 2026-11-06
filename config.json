@@ -1,0 +1,6 @@
+{
+  "data_dir": "data",
+  "output_dir": "outputs",
+  "bootstrap_resamples": 10000,
+  "random_seed": 1
+}
