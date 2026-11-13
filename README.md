@@ -2,6 +2,8 @@
 
 Analysis and figures for team age, age diversity, citation impact, interdisciplinarity, and disruption.
 
+Official faculty profile: [Alex J. Yang — Nanjing University](https://im.nju.edu.cn/info/1103/53391.htm).
+
 ## Environment
 
 Use Python 3.11 or 3.12. Install the declared Python dependencies from the repository root:
